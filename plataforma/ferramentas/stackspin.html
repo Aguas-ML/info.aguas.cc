@@ -1,0 +1,52 @@
+<!--
+title: Stackspin em nosso beta
+description: Usando e anotando o Stackspin
+published: true
+date: 2023-06-06T20:39:42.776Z
+tags: cloud, stack, stackspin
+editor: ckeditor
+dateCreated: 2022-11-28T23:04:31.776Z
+-->
+
+<p>Stackspin é uma plataforma que oferece provisionamento autogerenciado, clique e reproduza de aplicativos online para Organizações da Sociedade Civil (OSC). Os usuários poderão configurar facilmente uma instância auto-hospedada do Stackspin, para que possam manter o controle sobre os dados inseridos nesses aplicativos.</p>
+<p>Stackspin é:</p>
+<ul>
+  <li>Código aberto</li>
+  <li>Atualização automática</li>
+  <li>Fácil de implantar</li>
+  <li>Integrado</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Como instalar</h2>
+<p>https://docs.stackspin.net/en/v0.8/installation/install_cli.html</p>
+<p>&nbsp;</p>
+<h2>Anotações de uso</h2>
+<p>&nbsp;</p>
+<h3>Novo usuário</h3>
+<p>Criar nova conta após start</p>
+<p>&nbsp;</p>
+<pre><code class="language-plaintext">apt update
+apt upgrade -y
+adduser nick
+usermod -aG sudo nick
+su - nick
+sudo nano /etc/hostname
+sudo nano /etc/hosts
+exit
+reboot</code></pre>
+<p>&nbsp;</p>
+<h3>Faça a instalação do Docker</h3>
+<p>Entre com seu novo usuário e faça a instalação&nbsp;</p>
+<p>Link <a href="https://docs.docker.com/engine/install/ubuntu/">tutorial</a></p>
+<p>Depois:</p>
+<p>&nbsp;</p>
+<pre><code class="language-plaintext">sudo usermod -aG docker nick
+reboot</code></pre>
+<p>&nbsp;</p>
+<h3>Ao usar o PIP</h3>
+<p>PIP, sempre ativar antes de instalar e rodar</p>
+<p>&nbsp;</p>
+<pre><code class="language-plaintext">cd /stackspin
+. env/bin/activate</code></pre>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
