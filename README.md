@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-03-26T14:54:17.866Z
 ---
 
-# ciclos.aguas.ml
+# info.aguas.cc
 WikiJs para a plataforma [ÁguasML](https://aguas.bio.br)
 
 We can work together, develop our abilities to live in harmony with the Waters and Nature.
