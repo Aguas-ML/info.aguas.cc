@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2023-07-21T17:59:53.036Z
+date: 2023-07-21T18:00:38.809Z
 tags: porto rural, projetos, rural, vivências
 editor: markdown
 dateCreated: 2022-11-28T23:01:38.478Z
@@ -40,7 +40,7 @@ Desde 2003 aninhando e distribuindo sistemas mitóticos de Abundância em [www.P
 {.is-success}
 
 > **Volta das florestas**
-Mapeando possibilidades para a [Volta das Florestas](https://info.aguas.cc/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas){target=_blank}
+Mapeando possibilidades para a [Volta das Florestas](/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas){target=_blank}
 {.is-success}
 
 > **Vocabulário para Emergência Humanitária**
@@ -55,17 +55,17 @@ Conectando a Cultura Inclusiva e Empoderando o Universo PCD. [Veja o projeto](ht
 > **Valorizando as Economias**
 Programas de incentivo ao desenvolvimento local de potencialidades econômicas
 [Banco Social da Comunidade de Aprendizagem das Águas - Banco CAPIN](https://bancocapin.ga)
-[Bases para Programas de Desenvolvimento Econômico local](https://info.aguas.cc/porto-rural/caminhos-possiveis/valorizando-as-economias){target=_blank}
-[Assis Dengue Experience](https://info.aguas.cc/porto-rural/caminhos-possiveis/assis-experience){target=_blank}
+[Bases para Programas de Desenvolvimento Econômico local](/porto-rural/caminhos-possiveis/valorizando-as-economias){target=_blank}
+[Assis Dengue Experience](/porto-rural/caminhos-possiveis/assis-experience){target=_blank}
 {.is-success}
 
 > **Águas de Maya v0.2**
 Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos mitigar os crimes.
-[Ler índice de anotações inspiradoras](https://info.aguas.cc/porto-rural/caminhos-possiveis/aguas-de-maya){target=_blank}
+[Ler índice de anotações inspiradoras](/porto-rural/caminhos-possiveis/aguas-de-maya){target=_blank}
 {.is-success}
 
 > **Inspirando uma Smart Village**
-Uma lista de referências pertinentes para inspirações no [roteiro de uma Smart Village](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village){target=_blank}
+Uma lista de referências pertinentes para inspirações no [roteiro de uma Smart Village](/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village){target=_blank}
 {.is-success}
 
 > **Birdwatching Capoava**
