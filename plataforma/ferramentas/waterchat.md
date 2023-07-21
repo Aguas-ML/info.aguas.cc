@@ -2,7 +2,7 @@
 title: ChatOps com o Mattermost
 description: Recriando o chat.aguas.ml em 2020
 published: true
-date: 2023-07-21T14:54:01.823Z
+date: 2023-07-21T15:19:18.658Z
 tags: águas, chat, mattermost, plataforma, ubuntu
 editor: markdown
 dateCreated: 2022-11-28T23:05:05.615Z
@@ -26,7 +26,12 @@ A seguir, uma lista com possibilidades de acesso ao chat
 
 .
 ## Temas para usar
-Tema dark, utilizado pelo waterops
+Alguns sites com temas para você procurar um bacana para você:
+- Temas [para Mattermost](https://avasconcelos114.github.io/mattermost-themes/)
+- Temas [para Slack](https://slackthemes.net/#/aubergine) que também podemos utilizar
+
+
+Este código é um exemplo de um tema dark, utilizado pela waterops
 
 ```
 {"awayIndicator":"#ff9e64","buttonBg":"#7aa2f7","buttonColor":"#1a1b26","centerChannelBg":"#1a1b26","centerChannelColor":"#c0caf5","codeTheme":"tokio-night","dndIndicator":"#f7768e","errorTextColor":"#f7768e","linkColor":"#7aa2f7","mentionBg":"#414868","mentionBj":"#cfc9c2","mentionColor":"#a9b1d6","mentionHighlightBg":"#414868","mentionHighlightLink":"#7aa2f7","newMessageSeparator":"#ff9e64","onlineIndicator":"#9ece6a","sidebarBg":"#1a1b26","sidebarHeaderBg":"#1a1b26","sidebarHeaderTextColor":"#a9b1d6","sidebarTeamBarBg":"#1a1b26","sidebarText":"#a9b1d6","sidebarTextActiveBorder":"#9ece6a","sidebarTextActiveColor":"#7aa2f7","sidebarTextHoverBg":"#414868","sidebarUnreadText":"#c0caf5"}
