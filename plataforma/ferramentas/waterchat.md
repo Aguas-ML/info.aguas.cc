@@ -2,14 +2,14 @@
 title: ChatOps com o Mattermost
 description: Recriando o chat.aguas.ml em 2020
 published: true
-date: 2023-06-06T20:40:18.914Z
+date: 2023-07-21T14:54:01.823Z
 tags: águas, chat, mattermost, plataforma, ubuntu
 editor: markdown
 dateCreated: 2022-11-28T23:05:05.615Z
 ---
 
 # ChatOps usando o Mattermost
-O https://chat.aguas.ml conta com com aplicativo para celulares, notebooks e desktops, podendo também ser utilizado via navegadores, muito útil caso queiramos sair dos servidores das grandes empresas de internet.
+O [Chat Águas ML](https://chat.aguas.dev) conta com com aplicativo para celulares, notebooks e desktops, podendo também ser utilizado via navegadores, muito útil caso queiramos sair dos servidores das grandes empresas de internet.
 
 Com adoção, se a dinâmica e as pessoas curtirem, podemos usar com tranquilidade chats privados, grupos livres, etc. Ainda conta com uma gama interessante de integrações com outros aplicativos e sistemas.
 
@@ -19,14 +19,22 @@ Veja nosso manual de uso: https://aguas.win/manual-de-uso/
 ## Links para utilização
 A seguir, uma lista com possibilidades de acesso ao chat
 
-- Pelo navegador: https://chat.aguas.ml
+- Pelo navegador: https://chat.aguas.dev
 - Com aparelhos Android: https://play.google.com/store/apps/details?id=com.mattermost.rn
 - Com aparelhos Apple: https://apps.apple.com/us/app/mattermost/id1257222717
 - Programas para computadores Windows, MAC e Linux: https://mattermost.com/download/
 
 .
+## Temas para usar
+Tema dark, utilizado pelo waterops
+
+```
+{"awayIndicator":"#ff9e64","buttonBg":"#7aa2f7","buttonColor":"#1a1b26","centerChannelBg":"#1a1b26","centerChannelColor":"#c0caf5","codeTheme":"tokio-night","dndIndicator":"#f7768e","errorTextColor":"#f7768e","linkColor":"#7aa2f7","mentionBg":"#414868","mentionBj":"#cfc9c2","mentionColor":"#a9b1d6","mentionHighlightBg":"#414868","mentionHighlightLink":"#7aa2f7","newMessageSeparator":"#ff9e64","onlineIndicator":"#9ece6a","sidebarBg":"#1a1b26","sidebarHeaderBg":"#1a1b26","sidebarHeaderTextColor":"#a9b1d6","sidebarTeamBarBg":"#1a1b26","sidebarText":"#a9b1d6","sidebarTextActiveBorder":"#9ece6a","sidebarTextActiveColor":"#7aa2f7","sidebarTextHoverBg":"#414868","sidebarUnreadText":"#c0caf5"}
+```
+
+.
 ## Sobre a instalação
-Para instalar escolha um guia em https://docs.mattermost.com/guides/administrator.html#installing-mattermost
+Para instalar em seu servidor, escolha um guia na [documentação oficial](https://docs.mattermost.com/guides/administrator.html#installing-mattermost)
 
 .
 ### Dicas úteis
