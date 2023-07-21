@@ -2,7 +2,7 @@
 title: Ciclos Águas Bem Comum em Mídia Livre
 description: Apresentando os ciclos internos da plataforma Águas ML
 published: true
-date: 2023-07-21T17:19:11.260Z
+date: 2023-07-21T17:19:42.624Z
 tags: águas, cyorgs, mídia livre, plataforma, portorural, waterops
 editor: markdown
 dateCreated: 2022-11-28T22:59:08.500Z
@@ -18,7 +18,7 @@ Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em 
 
 Esta plataforma faz conexões e distribui conteúdo gratuito para concretizar essa visão. Aqui você vai encontrar uma biblioteca de recursos vivos, pessoas, seres e organizações que trabalham por um mundo hídrico saudável.
 
-.
+
 ## Muitos caminhos pelas águas
 
 
