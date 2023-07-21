@@ -2,7 +2,7 @@
 title: Ciclos Águas Bem Comum em Mídia Livre
 description: Apresentando os ciclos internos da plataforma Águas ML
 published: true
-date: 2023-06-06T20:35:22.998Z
+date: 2023-07-21T17:18:14.040Z
 tags: águas, cyorgs, mídia livre, plataforma, portorural, waterops
 editor: markdown
 dateCreated: 2022-11-28T22:59:08.500Z
@@ -21,20 +21,20 @@ Esta plataforma faz conexões e distribui conteúdo gratuito para concretizar es
 
 
 
-> Para ver pequenos registros sobre estudos e projetos, visite os [projetos da PORTO Rural](/porto-rural/caminhos-possiveis)
+> Para ver pequenos registros sobre estudos e projetos, visite os [projetos da PORTO Rural](/porto-rural/caminhos-possiveis){target=_blank}
 {.is-success}
 
-> Para ver nossos serviços digitais mais estáveis, visite [nossas ferramentas digitais](/plataforma/digitais)
+> Para ver nossos serviços digitais mais estáveis, visite [nossas ferramentas digitais](/plataforma/digitais){target=_blank}
 {.is-success}
 
-> Para ler sobre as organizações associativas cibernéticas, visite o [resumo das Cyorgs](/cyorgs)
+> Para ler sobre as organizações associativas cibernéticas, visite o [resumo das Cyorgs](/cyorgs){target=_blank}
 {.is-info}
 
 
 
 Pretendemos assim apresentar projetos e idéias bem sucedidas, em qualquer lugar do mundo, para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas
 
-Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma iniciativa em [Ciência Aberta](/objetivos)
+Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma iniciativa em [Ciência Aberta](/objetivos){target=_blank}
 
 Podemos atuar em povoados, cidades e comunidades, em qualquer um dos aglomerados conectados, que chamaremos tecnicamente e, somente em alguns lugares, como **enxames**.
 
