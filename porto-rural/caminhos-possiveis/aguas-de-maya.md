@@ -2,7 +2,7 @@
 title: Águas de Maya v0.2
 description: Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos eliminar ou mitigar os danos.
 published: true
-date: 2023-07-21T18:14:33.877Z
+date: 2023-07-21T18:15:17.095Z
 tags: águas, educação, mapa, sustentabilidade, vizinhança
 editor: markdown
 dateCreated: 2022-11-28T23:06:03.062Z
@@ -16,7 +16,7 @@ dateCreated: 2022-11-28T23:06:03.062Z
 
 
 ## Objetivos sociais no Projeto
-Dentre os estabelecidos no Estatuto da [Caminho das Águas](https://caminhodasaguas.org.br){target=_blank}
+Dentre os estabelecidos no Estatuto da [Caminho das Águas](https://caminhodasaguas.org.br/apresentacao/){target=_blank}
 
 - Promover a defesa de bens e direitos sociais, coletivos e difusos, relativos ao meio ambiente, ao patrimônio cultural e artístico, aos direitos humanos e dos povos
 - Estimular o aperfeiçoamento e o cumprimento de legislação que instrumentalize a consecução dos presentes objetivos
