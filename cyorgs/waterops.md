@@ -2,7 +2,7 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2023-07-21T16:21:48.217Z
+date: 2023-07-21T16:25:18.508Z
 tags: comunicação, ecossistema, ferramentas, staff, waterops
 editor: markdown
 dateCreated: 2022-11-28T23:00:27.623Z
@@ -24,9 +24,9 @@ Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir
 
 ### Objetivos dos serviços disponíveis
 
-Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.cc/index.php?title=Alternativas_de_aprendizagem "Alternativas de aprendizagem") e [instrumentos de gestão](https://wiki.aguas.cc/index.php?title=Instrumentos_de_gest%C3%A3o&action=edit&redlink=1 "Instrumentos de gestão (página inexistente)") para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.cc/index.php?title=Bem_Comum&action=edit&redlink=1 "Bem Comum (página inexistente)"), orientando as [organizações cibernéticas](https://wiki.aguas.cc/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.cc/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.cc/index.php?title=Natureza&action=edit&redlink=1 "Natureza (página inexistente)").
+Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.cc/index.php/Alternativas_de_aprendizagem "Alternativas de aprendizagem") e [instrumentos de gestão](https://wiki.aguas.cc/index.php/Instrumentos_de_gest%C3%A3o "Instrumentos de gestão") para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.cc/index.php/Bem_Comum "Bem Comum"), orientando as [organizações cibernéticas](https://wiki.aguas.cc/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.cc/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.cc/index.php/Natureza "Natureza").
 
-Queremos aprender e desenvolver uma [visão biocêntrica](https://wiki.aguas.cc/index.php?title=Vis%C3%A3o_bioc%C3%AAntrica&action=edit&redlink=1 "Visão biocêntrica (página inexistente)") prática de amor para com as águas e deglutir conceitos complexos e polêmicos em [recursos hídricos](https://wiki.aguas.cc/index.php/Recursos_h%C3%ADdricos "Recursos hídricos")
+Queremos aprender e desenvolver uma [visão biocêntrica](https://wiki.aguas.cc/index.php/Vis%C3%A3o_bioc%C3%AAntrica "Visão biocêntrica") prática de amor para com as águas e deglutir conceitos complexos e polêmicos em [recursos hídricos](https://wiki.aguas.cc/index.php/Recursos_h%C3%ADdricos "Recursos hídricos")
 
 ### Lista de Serviços
 
