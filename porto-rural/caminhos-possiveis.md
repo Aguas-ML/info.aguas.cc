@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2023-07-21T17:52:52.683Z
+date: 2023-07-21T17:53:05.612Z
 tags: porto rural, projetos, rural, vivências
 editor: markdown
 dateCreated: 2022-11-28T23:01:38.478Z
@@ -106,8 +106,7 @@ Criando cenários de estradas útil para pessoas, veículos e empresas e que pod
 {.is-warning}
 
 > **SOPA 2018**
-O objetivo dessa proposta foi apresentar a videodocumentação do 7o. (Re)Encontro da Rede São Paulo de Memória e Museologia Social (REMMUS-SP), que ocorreu em junho de 2018 na Fazenda Capoava, município de Porto Feliz, São Paulo.
-Aqui compartilhamos nossa [inscrição feita ao SOPA 2018](https://ciclos.aguas.ml/porto-rural/sopa-chile){target=_blank}
+O objetivo dessa proposta foi apresentar a videodocumentação do 7o. (Re)Encontro da Rede São Paulo de Memória e Museologia Social (REMMUS-SP), que ocorreu em junho de 2018 na Fazenda Capoava, município de Porto Feliz, São Paulo. Aqui compartilhamos nossa [inscrição feita ao SOPA 2018](https://ciclos.aguas.ml/porto-rural/sopa-chile){target=_blank}
 {.is-info}
 
 
