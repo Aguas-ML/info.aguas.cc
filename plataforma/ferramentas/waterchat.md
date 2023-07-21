@@ -2,7 +2,7 @@
 title: ChatOps com o Mattermost
 description: Recriando o chat.aguas.ml em 2020
 published: true
-date: 2023-07-21T15:19:18.658Z
+date: 2023-07-21T15:30:01.006Z
 tags: águas, chat, mattermost, plataforma, ubuntu
 editor: markdown
 dateCreated: 2022-11-28T23:05:05.615Z
@@ -38,7 +38,7 @@ Este código é um exemplo de um tema dark, utilizado pela waterops
 ```
 
 .
-## Sobre a instalação
+## Faça a sua instalação
 Para instalar em seu servidor, escolha um guia na [documentação oficial](https://docs.mattermost.com/guides/administrator.html#installing-mattermost)
 
 .
