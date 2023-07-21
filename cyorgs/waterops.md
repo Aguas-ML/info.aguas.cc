@@ -2,7 +2,7 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2023-07-21T17:10:06.506Z
+date: 2023-07-21T17:10:42.691Z
 tags: comunicação, ecossistema, ferramentas, staff, waterops
 editor: markdown
 dateCreated: 2022-11-28T23:00:27.623Z
@@ -23,7 +23,7 @@ Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir
 -   Como você ouviu falar sobre nós e o que lhe interessa na ÁguasML
 -   Sua chave SSH pública, se quiser se conectar à algum ambiente mais seguro
 
-### Objetivos dos serviços disponíveis
+### Objetivos WaterOps
 
 Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.cc/index.php/Alternativas_de_aprendizagem "Alternativas de aprendizagem") e [instrumentos de gestão](https://wiki.aguas.cc/index.php/Instrumentos_de_gest%C3%A3o "Instrumentos de gestão") para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.cc/index.php/Bem_Comum "Bem Comum"), orientando as [organizações cibernéticas](https://wiki.aguas.cc/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.cc/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.cc/index.php/Natureza "Natureza").
 
