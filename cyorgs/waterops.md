@@ -2,7 +2,7 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2023-07-21T17:16:39.099Z
+date: 2023-07-21T17:17:39.012Z
 tags: comunicação, ecossistema, ferramentas, staff, waterops
 editor: markdown
 dateCreated: 2022-11-28T23:00:27.623Z
@@ -15,7 +15,7 @@ Nas abas abaixo você encontra informações úteis para entrar em conexão dire
 ## Tabs {.tabset}
 ### Cooperação WaterOps
 
-Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir nosso [formulário de inscrição](https://tab.aguas.cc/dashboard/#/nc/form/0d5c970b-1c09-4ab5-ad53-902aa93e39e1) e nos fornecer:
+Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir nosso [formulário de inscrição](https://tab.aguas.cc/dashboard/#/nc/form/0d5c970b-1c09-4ab5-ad53-902aa93e39e1){target=_blank} e nos fornecer:
 
 -   Seu nome de contato
 -   Seu endereço de e-mail (para que possamos entrar em contato com você com detalhes de login)
@@ -25,13 +25,13 @@ Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir
 
 ### Objetivos WaterOps
 
-Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.cc/index.php/Alternativas_de_aprendizagem "Alternativas de aprendizagem"){target=_blank} e [instrumentos de gestão](https://wiki.aguas.cc/index.php/Instrumentos_de_gest%C3%A3o "Instrumentos de gestão"){target=_blank} para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.cc/index.php/Bem_Comum "Bem Comum"){target=_blank}, orientando as [organizações cibernéticas](https://wiki.aguas.cc/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.cc/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.cc/index.php/Natureza "Natureza").
+Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.cc/index.php/Alternativas_de_aprendizagem "Alternativas de aprendizagem"){target=_blank} e [instrumentos de gestão](https://wiki.aguas.cc/index.php/Instrumentos_de_gest%C3%A3o "Instrumentos de gestão"){target=_blank} para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.cc/index.php/Bem_Comum "Bem Comum"){target=_blank}, orientando as [organizações cibernéticas](https://wiki.aguas.cc/index.php/CyOrgs "CyOrgs"){target=_blank} no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.cc/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação"){target=_blank} para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.cc/index.php/Natureza "Natureza"){target=_blank}.
 
-Queremos aprender e desenvolver uma [visão biocêntrica](https://wiki.aguas.cc/index.php/Vis%C3%A3o_bioc%C3%AAntrica "Visão biocêntrica") prática de amor para com as águas e deglutir conceitos complexos e polêmicos em [recursos hídricos](https://wiki.aguas.cc/index.php/Recursos_h%C3%ADdricos "Recursos hídricos")
+Queremos aprender e desenvolver uma [visão biocêntrica](https://wiki.aguas.cc/index.php/Vis%C3%A3o_bioc%C3%AAntrica "Visão biocêntrica"){target=_blank} prática de amor para com as águas e deglutir conceitos complexos e polêmicos em [recursos hídricos](https://wiki.aguas.cc/index.php/Recursos_h%C3%ADdricos "Recursos hídricos"){target=_blank}
 
 ### Lista de Serviços
 
-Veja nossa lista de [Serviços](https://aguas.cc) disponíveis
+Veja nossa lista de [Serviços](https://aguas.cc){target=_blank} disponíveis
 
 ## Prioridade é do Código Aberto
 
