@@ -2,7 +2,7 @@
 title: Águas de Maya v0.2
 description: Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos eliminar ou mitigar os danos.
 published: true
-date: 2023-07-21T18:10:04.532Z
+date: 2023-07-21T18:12:10.036Z
 tags: águas, educação, mapa, sustentabilidade, vizinhança
 editor: markdown
 dateCreated: 2022-11-28T23:06:03.062Z
@@ -19,6 +19,7 @@ Identificar possíveis impactos provocados pelo ser humano e avaliar de que mane
 
 
 ## Objetivos sociais no Projeto
+Dentre os estabelecidos no Estatuto da [Caminho das Águas](https://caminhodasaguas.org.br){target=_blank}
 
 - Promover a defesa de bens e direitos sociais, coletivos e difusos, relativos ao meio ambiente, ao patrimônio cultural e artístico, aos direitos humanos e dos povos
 - Estimular o aperfeiçoamento e o cumprimento de legislação que instrumentalize a consecução dos presentes objetivos
@@ -36,11 +37,13 @@ A seguir, dados contendo locais, pessoas, organizações, links, manuais, legisl
 ### Global
 
 #### PublicLab
-https://publiclab.org
+Veja o [site da rede](https://publiclab.org){target=_blank}
 
 Atividades interessantes
 [7 Ways to Measure, Monitor, and Evaluate Water Quality](https://publiclab.org/notes/anngneal/12-08-2017/7-ways-to-measure-monitor-and-evaluate-water-quality){target=_blank}
-[[Espectometria]]
+
+[Espectometria]
+
 
 #### EnviroDIY
 Uma comunidade para ciência e monitoramento ambiental [faça você mesmo](https://www.envirodiy.org/){target=_blank}.
