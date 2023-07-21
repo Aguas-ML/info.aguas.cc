@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2023-07-21T17:53:05.612Z
+date: 2023-07-21T17:59:53.036Z
 tags: porto rural, projetos, rural, vivências
 editor: markdown
 dateCreated: 2022-11-28T23:01:38.478Z
@@ -40,7 +40,7 @@ Desde 2003 aninhando e distribuindo sistemas mitóticos de Abundância em [www.P
 {.is-success}
 
 > **Volta das florestas**
-Mapeando possibilidades para a [Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas){target=_blank}
+Mapeando possibilidades para a [Volta das Florestas](https://info.aguas.cc/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas){target=_blank}
 {.is-success}
 
 > **Vocabulário para Emergência Humanitária**
@@ -55,13 +55,13 @@ Conectando a Cultura Inclusiva e Empoderando o Universo PCD. [Veja o projeto](ht
 > **Valorizando as Economias**
 Programas de incentivo ao desenvolvimento local de potencialidades econômicas
 [Banco Social da Comunidade de Aprendizagem das Águas - Banco CAPIN](https://bancocapin.ga)
-[Bases para Programas de Desenvolvimento Econômico local](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/valorizando-as-economias){target=_blank}
-[Assis Dengue Experience](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/assis-experience){target=_blank}
+[Bases para Programas de Desenvolvimento Econômico local](https://info.aguas.cc/porto-rural/caminhos-possiveis/valorizando-as-economias){target=_blank}
+[Assis Dengue Experience](https://info.aguas.cc/porto-rural/caminhos-possiveis/assis-experience){target=_blank}
 {.is-success}
 
 > **Águas de Maya v0.2**
 Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos mitigar os crimes.
-[Ler índice de anotações inspiradoras](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/aguas-de-maya){target=_blank}
+[Ler índice de anotações inspiradoras](https://info.aguas.cc/porto-rural/caminhos-possiveis/aguas-de-maya){target=_blank}
 {.is-success}
 
 > **Inspirando uma Smart Village**
@@ -72,41 +72,41 @@ Uma lista de referências pertinentes para inspirações no [roteiro de uma Smar
 Início da listagem de identificação de [aves, pássaros e passarinhos observados na Fazenda Capoava](/porto-rural/caminhos-possiveis/lista-de-aves-na-capoava){target=_blank}.
 {.is-success}
 
-> **Residência sociobiodiversaPerformances artísticas**
-Atuamos na recepção de performances artísticas, para que mantenham a espontaneidade, com algum suporte. Veja mais sobre a [Residência Sociobiodiversa na Porto Rural](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/residencia-sociobiodiversa){target=_blank}.
-{.is-success}
+> **Residência sociobiodiversa**
+Uma casinha na roça para praticar o que entendemos sobre a [Residência Sociobiodiversa na Porto Rural](/porto-rural/caminhos-possiveis/residencia-sociobiodiversa){target=_blank}.
+{.is-warning}
 
 > **Performances e manifestações artísticas**
-Recepcionamos pessoas que queiram vibrar suas performances e habilidades artísticas híbridas, incentivando diversas linguagens de [performances e manifestações artísticas na Porto Rural](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/artes){target=_blank}.
+Recepcionamos pessoas que queiram vibrar suas performances e habilidades artísticas híbridas, incentivando diversas linguagens de [performances e manifestações artísticas na Porto Rural](/porto-rural/caminhos-possiveis/artes){target=_blank}.
 {.is-success}
 
 > **Relatórios em campo com Android**
-Inspirado no uso com a ONG Caminho das Águas, veja o [Guia de Uso do Kobo](https://ciclos.aguas.ml/plataforma/ferramentas/relatorios-android){target=_blank}
+Inspirado no uso com a ONG Caminho das Águas, veja o [Guia de Uso do Kobo](/plataforma/ferramentas/relatorios-android){target=_blank}
 {.is-success}
 
 > **Saneamento medicinal**
-Possibilidades em [Saneamento Medicinal](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava){target=_blank}
+Possibilidades em [Saneamento Medicinal](/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava){target=_blank}
 {.is-success}
 
 > **Albergues Brasil**
-Iniciativa focada em aproximar pessoas e instituições que trabalham com ações diretas em   [Assistência Social e Direitos Humanos](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/albergues-brasil){target=_blank}
+Iniciativa focada em aproximar pessoas e instituições que trabalham com ações diretas em   [Assistência Social e Direitos Humanos](/porto-rural/caminhos-possiveis/albergues-brasil){target=_blank}
 {.is-success}
 
 > **Roteiro de Outorgas**
-Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares){target=_blank} com base na palestras da Msc Juliene Rodrigues.
+Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](/porto-rural/caminhos-possiveis/outorgas-poços-tubulares){target=_blank} com base na palestras da Msc Juliene Rodrigues.
 {.is-warning}
 
 > **Vila Capoava da Carpintaria**
-A ideia de uma [Vila da Carpintaria](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria){target=_blank} parece simples: madeiras, uma moeda social e muitas crianças.
+A ideia de uma [Vila da Carpintaria](/porto-rural/caminhos-possiveis/vila-da-carpintaria){target=_blank} parece simples: madeiras, uma moeda social e muitas crianças.
 {.is-warning}
 
 > **Vila da Mobilidade Rural**
 Criando cenários de estradas útil para pessoas, veículos e empresas e que pode ser base de caminhos que visam a conservação dos recursos naturais.
-[Conheça a Vila da Mobilidade Rural](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade){target=_blank}
+[Conheça a Vila da Mobilidade Rural](/porto-rural/caminhos-possiveis/vila-da-mobilidade){target=_blank}
 {.is-warning}
 
 > **SOPA 2018**
-O objetivo dessa proposta foi apresentar a videodocumentação do 7o. (Re)Encontro da Rede São Paulo de Memória e Museologia Social (REMMUS-SP), que ocorreu em junho de 2018 na Fazenda Capoava, município de Porto Feliz, São Paulo. Aqui compartilhamos nossa [inscrição feita ao SOPA 2018](https://ciclos.aguas.ml/porto-rural/sopa-chile){target=_blank}
+O objetivo dessa proposta foi apresentar a videodocumentação do 7o. (Re)Encontro da Rede São Paulo de Memória e Museologia Social (REMMUS-SP), que ocorreu em junho de 2018 na Fazenda Capoava, município de Porto Feliz, São Paulo. Aqui compartilhamos nossa [inscrição feita ao SOPA 2018](/porto-rural/sopa-chile){target=_blank}
 {.is-info}
 
 
