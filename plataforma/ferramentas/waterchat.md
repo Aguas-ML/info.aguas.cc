@@ -2,13 +2,12 @@
 title: ChatOps com o Mattermost
 description: Dicas para usar o Chat Águas Mídia Livre
 published: true
-date: 2023-07-21T15:34:21.734Z
+date: 2023-07-21T15:35:34.335Z
 tags: águas, chat, mattermost, plataforma, ubuntu
 editor: markdown
 dateCreated: 2022-11-28T23:05:05.615Z
 ---
 
-# ChatOps usando o Mattermost
 O [Chat Águas ML](https://chat.aguas.dev) conta com com aplicativo para celulares, notebooks e desktops, podendo também ser utilizado via navegadores, muito útil caso queiramos sair dos servidores das grandes empresas de internet.
 
 Com adoção, se a dinâmica e as pessoas curtirem, podemos usar com tranquilidade chats privados, grupos livres, etc. Ainda conta com uma gama interessante de integrações com outros aplicativos e sistemas.
