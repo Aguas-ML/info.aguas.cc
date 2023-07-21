@@ -1,8 +1,8 @@
 ---
 title: ChatOps com o Mattermost
-description: Recriando o chat.aguas.ml em 2020
+description: Dicas para usar o Chat Águas Mídia Livre
 published: true
-date: 2023-07-21T15:30:01.006Z
+date: 2023-07-21T15:31:22.687Z
 tags: águas, chat, mattermost, plataforma, ubuntu
 editor: markdown
 dateCreated: 2022-11-28T23:05:05.615Z
