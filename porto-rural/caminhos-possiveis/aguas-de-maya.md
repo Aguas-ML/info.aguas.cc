@@ -2,14 +2,14 @@
 title: Águas de Maya v0.2
 description: Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos eliminar ou mitigar os danos.
 published: true
-date: 2023-07-21T18:12:10.036Z
+date: 2023-07-21T18:12:37.015Z
 tags: águas, educação, mapa, sustentabilidade, vizinhança
 editor: markdown
 dateCreated: 2022-11-28T23:06:03.062Z
 ---
 
 # Projeto - Águas de Maya v0.2
-Objetivo: Projeto na [[Caminho das Águas]], ver [site](https://caminhodasaguas.org.br){target=_blank}
+Objetivo: Projeto na [Caminho das Águas], ver [site](https://caminhodasaguas.org.br){target=_blank}
 
 Início do rascunho: 04/03/2022
 
