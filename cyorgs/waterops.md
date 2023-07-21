@@ -2,7 +2,7 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2023-06-06T20:36:29.702Z
+date: 2023-07-21T15:59:25.840Z
 tags: comunicação, ecossistema, ferramentas, staff, waterops
 editor: markdown
 dateCreated: 2022-11-28T23:00:27.623Z
@@ -24,17 +24,17 @@ Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir
 
 ### Objetivos dos serviços disponíveis
 
-Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.ml/index.php?title=Alternativas_de_aprendizagem&action=edit&redlink=1 "Alternativas de aprendizagem (página inexistente)") e [instrumentos de gestão](https://wiki.aguas.ml/index.php?title=Instrumentos_de_gest%C3%A3o&action=edit&redlink=1 "Instrumentos de gestão (página inexistente)") para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.ml/index.php?title=Bem_Comum&action=edit&redlink=1 "Bem Comum (página inexistente)"), orientando as [organizações cibernéticas](https://wiki.aguas.ml/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.ml/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.ml/index.php?title=Natureza&action=edit&redlink=1 "Natureza (página inexistente)").
+Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.cc/index.php?title=Alternativas_de_aprendizagem&action=edit&redlink=1 "Alternativas de aprendizagem (página inexistente)") e [instrumentos de gestão](https://wiki.aguas.cc/index.php?title=Instrumentos_de_gest%C3%A3o&action=edit&redlink=1 "Instrumentos de gestão (página inexistente)") para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.cc/index.php?title=Bem_Comum&action=edit&redlink=1 "Bem Comum (página inexistente)"), orientando as [organizações cibernéticas](https://wiki.aguas.cc/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.cc/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.cc/index.php?title=Natureza&action=edit&redlink=1 "Natureza (página inexistente)").
 
-Queremos aprender e desenvolver uma [visão biocêntrica](https://wiki.aguas.ml/index.php?title=Vis%C3%A3o_bioc%C3%AAntrica&action=edit&redlink=1 "Visão biocêntrica (página inexistente)") prática de amor para com as águas e deglutir conceitos complexos e polêmicos em [recursos hídricos](https://wiki.aguas.ml/index.php/Recursos_h%C3%ADdricos "Recursos hídricos")
+Queremos aprender e desenvolver uma [visão biocêntrica](https://wiki.aguas.cc/index.php?title=Vis%C3%A3o_bioc%C3%AAntrica&action=edit&redlink=1 "Visão biocêntrica (página inexistente)") prática de amor para com as águas e deglutir conceitos complexos e polêmicos em [recursos hídricos](https://wiki.aguas.cc/index.php/Recursos_h%C3%ADdricos "Recursos hídricos")
 
 ### Lista de Serviços
 
-Veja nossa Lista de [Serviços](https://nice.aguas.win/servidores)
+Veja nossa Lista de [Serviços](https://wiki.aguas.cc/index.php/Servi%C3%A7os_%C3%81guas_M%C3%ADdia_Livre) disponíveis
 
 ## Prioridade é do Código Aberto
 
-A ÁguasML tenta aderir aos valores e filosofia da Ética Hacker sempre que possível. A ética e as crenças dos hackers, conforme descrito por Levy, são:
+A Águas ML tenta aderir aos valores e filosofia da Ética Hacker sempre que possível. A ética e as crenças dos hackers, conforme descrito por Levy, são:
 
 -   O acesso a computadores - e qualquer coisa que possa ensinar algo sobre como o mundo funciona - deve ser ilimitado e total.
 -   Sempre ceda ao Imperativo Mãos à Obra!
